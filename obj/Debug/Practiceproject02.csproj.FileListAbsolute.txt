@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\Practiceproject02\obj\Debug\Practiceproject02.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\Practiceproject02\obj\Debug\Practiceproject02.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\Practiceproject02\obj\Debug\Practiceproject02.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\Practiceproject02\bin\Debug\Practiceproject02.exe.config
+C:\dialytask\Assisted Practice\Practiceproject02\bin\Debug\Practiceproject02.exe
+C:\dialytask\Assisted Practice\Practiceproject02\bin\Debug\Practiceproject02.pdb
+C:\dialytask\Assisted Practice\Practiceproject02\obj\Debug\Practiceproject02.exe
+C:\dialytask\Assisted Practice\Practiceproject02\obj\Debug\Practiceproject02.pdb
